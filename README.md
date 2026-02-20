@@ -77,7 +77,7 @@ The system follows a **modular edge AI methodology**, combining audio capture, o
 * Continuously listens for **wake words**: “सुनो,” “सुनो जी”
 * Once detected, transitions system from **sleep mode to active mode**
 * Prevents unnecessary CPU load during idle periods
-* Supports **SILENCE_TIMEOUT** (3.5 s) and **ACTIVE_TIMEOUT** (30 s)
+* Supports **SILENCE_TIMEOUT** (1.5 s) and **ACTIVE_TIMEOUT** (30 s)
 
 ---
 
@@ -188,4 +188,4 @@ This project demonstrates a fully **offline, privacy-preserving Hindi voice assi
 * Real-time command recognition and voice responses achieved
 * User data remains **secure and local**
 * Hardware control verified with GPIO devices
-* M
+  
